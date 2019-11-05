@@ -69,7 +69,7 @@
       <img src="https://github.com/0is2/KookminSpellChecker/blob/master/pic/6.png">
 
 2. 웹 서버 URL 입력
-
+  - 구름IDE에서 컨테이너 - 포트포워딩 설정을 통해 URL 작성
       <img src="https://github.com/0is2/KookminSpellChecker/blob/master/pic/7.png">
 
 3. 각 기능 별 블록 작성
@@ -94,7 +94,7 @@
 
    <img src="https://github.com/0is2/KookminSpellChecker/blob/master/pic/11.PNG">
 
-### 라이브러리에 대한 안내
+## 라이브러리에 대한 안내
 
 이 라이브러리는 네이버 한글 맞춤법 검사기를 바탕으로 만들어진 라이브러리인 py-hanspell을 사용하였습니다.
 
